@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "language_info": {
+      "codemirror_mode": {
+        "name": "python",
+        "version": 3
+      },
+      "file_extension": ".py",
+      "mimetype": "text/x-python",
+      "name": "python",
+      "nbconvert_exporter": "python",
+      "pygments_lexer": "ipython3",
+      "version": "3.8"
+    },
+    "kernelspec": {
+      "name": "python",
+      "display_name": "Python (Pyodide)",
+      "language": "python"
+    }
+  },
+  "nbformat_minor": 4,
+  "nbformat": 4,
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "source": "# My Jupyter Notebook on IBM Watson Studio",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "**Majd Najib**\nI work as a technical support engineer",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "*I'm eager to learn data science because I see that it's the future of all sciences, and it could lead to a new dimension of knowledge*",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "## The code should add values of the components together.",
+      "metadata": {}
+    },
+    {
+      "cell_type": "code",
+      "source": "5+5",
+      "metadata": {
+        "trusted": true
+      },
+      "execution_count": 29,
+      "outputs": [
+        {
+          "execution_count": 29,
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": "10"
+          },
+          "metadata": {}
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": "<a href=\"https://www.coursera.org/\">Coursera</a>",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "|FirstName|MiddleName|LastName|\n|----|-------|-----|\n|Majd|Middle|Najib|\n|FSample1|MSample1|LSample1|\n",
+      "metadata": {}
+    },
+    {
+      "cell_type": "markdown",
+      "source": "Block Quotes:\n> I want to create a block quote.\n",
+      "metadata": {}
+    }
+  ]
+}
